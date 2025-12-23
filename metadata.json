@@ -1,0 +1,7 @@
+{
+  "name": "Motor Frequency Detector",
+  "description": "An application that uses the device's microphone to detect and display the dominant frequency of a motor or other continuous sound source in real-time.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
